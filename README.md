@@ -1,4 +1,4 @@
-# qsc-airplane
+# Predicting Airline Stock Price from Public Flight Data
 
 ![Contributor: Adtyia, David, Rohen, Paul, Preston](cover.png)
 
